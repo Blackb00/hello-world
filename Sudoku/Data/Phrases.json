@@ -1,0 +1,8 @@
+﻿{
+  "welcome": "SUDOKU",
+  "rules": "You need to change all zeros to a numbers from 1 to 9,\n All numbers in horisontal line must be uniq, so it does in the vertical line.\n Use the arrow buttons to move cursor.\n To change number, push the spacebar and enter needed number (put numbers right on the place of zero numbers), than push Enter\n When you done, push Esc",
+  "level": "Please, enter the number that describes your level (1-very simple, 8 - very hard)",
+  "levelDefault": "You've choosed a default level",
+  "goodCongrats": "You're a WINNER!",
+  "badCongrats": "You're a LoooOOoooSER!"
+}
