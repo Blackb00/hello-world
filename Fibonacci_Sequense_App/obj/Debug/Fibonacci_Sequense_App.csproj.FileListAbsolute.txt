@@ -1,0 +1,7 @@
+C:\Users\Dasha\source\repos\hello-world\Fibonacci_Sequense_App\bin\Debug\Fibonacci_Sequense_App.exe.config
+C:\Users\Dasha\source\repos\hello-world\Fibonacci_Sequense_App\bin\Debug\Fibonacci_Sequense_App.exe
+C:\Users\Dasha\source\repos\hello-world\Fibonacci_Sequense_App\bin\Debug\Fibonacci_Sequense_App.pdb
+C:\Users\Dasha\source\repos\hello-world\Fibonacci_Sequense_App\obj\Debug\Fibonacci_Sequense_App.csprojAssemblyReference.cache
+C:\Users\Dasha\source\repos\hello-world\Fibonacci_Sequense_App\obj\Debug\Fibonacci_Sequense_App.csproj.CoreCompileInputs.cache
+C:\Users\Dasha\source\repos\hello-world\Fibonacci_Sequense_App\obj\Debug\Fibonacci_Sequense_App.exe
+C:\Users\Dasha\source\repos\hello-world\Fibonacci_Sequense_App\obj\Debug\Fibonacci_Sequense_App.pdb
