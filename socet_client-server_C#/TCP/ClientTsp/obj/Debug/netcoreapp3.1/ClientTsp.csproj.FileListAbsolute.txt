@@ -1,0 +1,11 @@
+D:\Programming\dotNetCore\socet_client-server_C#\ClientTsp\bin\Debug\netcoreapp3.1\ClientTsp.exe
+D:\Programming\dotNetCore\socet_client-server_C#\ClientTsp\bin\Debug\netcoreapp3.1\ClientTsp.deps.json
+D:\Programming\dotNetCore\socet_client-server_C#\ClientTsp\bin\Debug\netcoreapp3.1\ClientTsp.runtimeconfig.json
+D:\Programming\dotNetCore\socet_client-server_C#\ClientTsp\bin\Debug\netcoreapp3.1\ClientTsp.runtimeconfig.dev.json
+D:\Programming\dotNetCore\socet_client-server_C#\ClientTsp\bin\Debug\netcoreapp3.1\ClientTsp.dll
+D:\Programming\dotNetCore\socet_client-server_C#\ClientTsp\bin\Debug\netcoreapp3.1\ClientTsp.pdb
+D:\Programming\dotNetCore\socet_client-server_C#\ClientTsp\obj\Debug\netcoreapp3.1\ClientTsp.csprojAssemblyReference.cache
+D:\Programming\dotNetCore\socet_client-server_C#\ClientTsp\obj\Debug\netcoreapp3.1\ClientTsp.AssemblyInfoInputs.cache
+D:\Programming\dotNetCore\socet_client-server_C#\ClientTsp\obj\Debug\netcoreapp3.1\ClientTsp.AssemblyInfo.cs
+D:\Programming\dotNetCore\socet_client-server_C#\ClientTsp\obj\Debug\netcoreapp3.1\ClientTsp.dll
+D:\Programming\dotNetCore\socet_client-server_C#\ClientTsp\obj\Debug\netcoreapp3.1\ClientTsp.pdb

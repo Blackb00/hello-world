@@ -1,0 +1,11 @@
+D:\Programming\dotNetCore\socet_client-server_C#\UDP\ServerUDP\obj\Debug\netcoreapp3.1\ServerUDP.csprojAssemblyReference.cache
+D:\Programming\dotNetCore\socet_client-server_C#\UDP\ServerUDP\obj\Debug\netcoreapp3.1\ServerUDP.AssemblyInfoInputs.cache
+D:\Programming\dotNetCore\socet_client-server_C#\UDP\ServerUDP\obj\Debug\netcoreapp3.1\ServerUDP.AssemblyInfo.cs
+D:\Programming\dotNetCore\socet_client-server_C#\UDP\ServerUDP\bin\Debug\netcoreapp3.1\ServerUDP.exe
+D:\Programming\dotNetCore\socet_client-server_C#\UDP\ServerUDP\bin\Debug\netcoreapp3.1\ServerUDP.deps.json
+D:\Programming\dotNetCore\socet_client-server_C#\UDP\ServerUDP\bin\Debug\netcoreapp3.1\ServerUDP.runtimeconfig.json
+D:\Programming\dotNetCore\socet_client-server_C#\UDP\ServerUDP\bin\Debug\netcoreapp3.1\ServerUDP.runtimeconfig.dev.json
+D:\Programming\dotNetCore\socet_client-server_C#\UDP\ServerUDP\bin\Debug\netcoreapp3.1\ServerUDP.dll
+D:\Programming\dotNetCore\socet_client-server_C#\UDP\ServerUDP\bin\Debug\netcoreapp3.1\ServerUDP.pdb
+D:\Programming\dotNetCore\socet_client-server_C#\UDP\ServerUDP\obj\Debug\netcoreapp3.1\ServerUDP.dll
+D:\Programming\dotNetCore\socet_client-server_C#\UDP\ServerUDP\obj\Debug\netcoreapp3.1\ServerUDP.pdb
