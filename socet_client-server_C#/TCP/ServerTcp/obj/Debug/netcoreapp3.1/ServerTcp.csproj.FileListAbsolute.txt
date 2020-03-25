@@ -1,0 +1,11 @@
+D:\Programming\dotNetCore\socet_client-server_C#\ServerTcp\bin\Debug\netcoreapp3.1\ServerTcp.exe
+D:\Programming\dotNetCore\socet_client-server_C#\ServerTcp\bin\Debug\netcoreapp3.1\ServerTcp.deps.json
+D:\Programming\dotNetCore\socet_client-server_C#\ServerTcp\bin\Debug\netcoreapp3.1\ServerTcp.runtimeconfig.json
+D:\Programming\dotNetCore\socet_client-server_C#\ServerTcp\bin\Debug\netcoreapp3.1\ServerTcp.runtimeconfig.dev.json
+D:\Programming\dotNetCore\socet_client-server_C#\ServerTcp\bin\Debug\netcoreapp3.1\ServerTcp.dll
+D:\Programming\dotNetCore\socet_client-server_C#\ServerTcp\bin\Debug\netcoreapp3.1\ServerTcp.pdb
+D:\Programming\dotNetCore\socet_client-server_C#\ServerTcp\obj\Debug\netcoreapp3.1\ServerTcp.csprojAssemblyReference.cache
+D:\Programming\dotNetCore\socet_client-server_C#\ServerTcp\obj\Debug\netcoreapp3.1\ServerTcp.AssemblyInfoInputs.cache
+D:\Programming\dotNetCore\socet_client-server_C#\ServerTcp\obj\Debug\netcoreapp3.1\ServerTcp.AssemblyInfo.cs
+D:\Programming\dotNetCore\socet_client-server_C#\ServerTcp\obj\Debug\netcoreapp3.1\ServerTcp.dll
+D:\Programming\dotNetCore\socet_client-server_C#\ServerTcp\obj\Debug\netcoreapp3.1\ServerTcp.pdb
